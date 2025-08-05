@@ -13,7 +13,9 @@ Just Uma Musume Auto Train
   - umaStat
   - trainStat
   - eventStat
-- Assets
-  - Buttons
-  - Training
-  - Stat
+- assets
+  - buttons
+  - training
+  - stat
+  - eventSupport
+  - eventUma
