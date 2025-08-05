@@ -8,8 +8,12 @@ Just Uma Musume Auto Train
 - AI Recommend Choices ?
 
 # Planning
-- Main
+- main
+- scanStat
+  - umaStat
+  - trainStat
+  - eventStat
 - Assets
--- Buttons
--- Training
--- Stat
+  - Buttons
+  - Training
+  - Stat
