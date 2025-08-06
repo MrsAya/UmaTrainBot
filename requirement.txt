@@ -1,0 +1,2 @@
+pip install pygetwindow screeninfo
+pip install pyautogui
