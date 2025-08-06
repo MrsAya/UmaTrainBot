@@ -1,2 +1,3 @@
 pip install pygetwindow screeninfo
 pip install pyautogui
+pip install opencv-python pytesseract pillow
